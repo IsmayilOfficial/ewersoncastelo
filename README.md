@@ -1,16 +1,13 @@
-### Hi there 👋
+# Ewerson Castelo  
+[![Twitter Badge](https://img.shields.io/badge/-@SilvaEwer-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SilvaEwer)](https://twitter.com/SilvaEwer) [![Linkedin Badge](https://img.shields.io/badge/-ewersoncastelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewersoncastelo/)](https://www.linkedin.com/in/ewersoncastelo/) [![Medium Badge](https://img.shields.io/badge/-@ewersoncastelo-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ewersoncastelo/)](https://medium.com/@ewersoncastelo/)
+[![Gmail Badge](https://img.shields.io/badge/-ewersoncastelo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ewersoncastelo@gmail.com)](mailto:ewersoncastelo@gmail.com)
 
-<!--
-**ewersoncastelo/ewersoncastelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an mobile developer and with experience in the web application creation. I have studied several technologies, such as Photoshop, Adobe XD, Figma, UI / UX, HTML, CSS, TypeScript, React Native, Node, React, with specialized web full stack training, but what really motivates me is mobile development. Take a look at some of my projects! 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on iOS Apps
+- 🌱 I’m currently learning Flutter for Android Apps
+- 💬 Ask me about: tech, "flash" and "this is us" series
+-  ⚡ Languages: Swift, Flutter, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+⭐️ From [EwersonCastelo](https://github.com/ewersoncastelo)
