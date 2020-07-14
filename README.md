@@ -3,8 +3,8 @@
 
 I am an mobile developer and with experience in the web application creation. I have studied several technologies, such as Photoshop, Adobe XD, Figma, UI / UX, HTML, CSS, TypeScript, React Native, Node, React, with specialized web full stack training, but what really motivates me is mobile development. Take a look at some of my projects! 
 
-- 🔭 I’m currently working on iOS Apps
-- 🌱 I’m currently learning Flutter for Android Apps
+- 🔭 I’m currently working on Mobile Apps
+- 🌱 I’m currently learning Flutter for Android Apps and Swift for iOS
 - 💬 Ask me about: tech, "flash" and "this is us" series
 -  ⚡ Languages: Swift, Flutter, JavaScript
 
